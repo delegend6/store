@@ -28,7 +28,7 @@ import Default from './components/Default';
 </Switch>
       
    </React.Fragment>
-  );
+  ); 
   }
 }
 

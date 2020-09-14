@@ -8,16 +8,17 @@ import {
   Route,
   Link
 } from "react-router-dom";
+import {ProductProvider} from './Context';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
-  <React.StrictMode>
  
+  <ProductProvider>
   <Router>
     <App />
-    </Router>,
-    
-  </React.StrictMode>,
+    </Router>
+    </ProductProvider>,
+ 
   document.getElementById('root')
 );
 
