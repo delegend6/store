@@ -1,10 +1,5 @@
 import React from 'react';
-import {
-   BrowserRouter as Router,
-   Switch,
-   Route,
-   Link
- } from "react-router-dom";
+import {Switch, Route} from "react-router-dom";
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Navbar from './components/Navbar';
@@ -25,8 +20,7 @@ import Default from './components/Default';
 <Route path='/details' component={Details} />
 <Route path='/cart' component={Cart} />
 <Route component={Default} />
-</Switch>
-      
+</Switch>   
    </React.Fragment>
   ); 
   }
