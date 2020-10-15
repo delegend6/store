@@ -6,96 +6,96 @@ https://www.iconfinder.com/Makoto_msk */
 export const storeProducts = [
   {
     id: 1,
-    title: "Google Pixel - Black",
+    title: "Broccoli",
     img: "img/product-1.png",
     price: 95,
-    company: "GOOGLE",
+    company: "LEGEND ORGANIC",
     info:
-      "Best Pixel",
+      "100% Organic",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 2,
-    title: "Samsung S7",
+    title: "Bell Pepper",
     img: "img/product-2.png",
     price: 110,
-    company: "SAMSUNG",
+    company: "LEGEND ORGANIC",
     info:
-      "Excellent phone with quality camera features.",
+      "Organic Bell Peppers in different colors.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 3,
-    title: "HTC 10 - Black",
+    title: "Turmeric",
     img: "img/product-3.png",
     price: 85,
-    company: "htc",
+    company: "LEGEND ORGANIC",
     info:
-      "Perfect phone for melinials.",
+      "High Cumin properties and high oil ratio. Purely organic.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 4,
-    title: "HTC 10 - White",
+    title: "Cayenne Pepper",
     img: "img/product-4.png",
     price: 80,
-    company: "htc",
+    company: "LEGEND ORGANIC",
     info:
-      "Welcome to the best phone experience.",
+      "The best quality organic cayenne pepper .",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 5,
-    title: "HTC Desire 626s",
+    title: "Ginger",
     img: "img/product-5.png",
     price: 85,
-    company: "htc",
+    company: "LEGEND ORGANIC",
     info:
-      "The desire of excellence",
+      "Fresh organic Japanese ginger",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 6,
-    title: "Vintage Iphone",
+    title: "Cucumber",
     img: "img/product-6.png",
     price: 180,
-    company: "apple",
+    company: "LEGEND ORGANIC",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Tokyo F1 sweet organic Cucumber.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 7,
-    title: "Iphone 7",
+    title: "Kale",
     img: "img/product-7.png",
     price: 195,
-    company: "apple",
+    company: "LEGEND ORGANIC",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Organic Kale from the forest belt.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 8,
-    title: "Smashed Iphone",
+    title: "Aubergine",
     img: "img/product-8.png",
     price: 120,
-    company: "apple",
+    company: "LEGEND ORGANIC",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Assorted varieties of organic aubergines.",
     inCart: false,
     count: 0,
     total: 0
@@ -104,12 +104,12 @@ export const storeProducts = [
 
 export const detailProduct = {
   id: 1,
-  title: "Google Pixel - Black",
+  title: "Broccoli",
   img: "img/product-1.png",
   price: 75,
-  company: "google",
+  company: "LEGEND ORGANIC",
   info:
-    "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+    "100% Organic.",
   inCart: false,
   count: 0,
   total: 0

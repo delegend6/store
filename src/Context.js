@@ -34,7 +34,7 @@ getItem = (id) => {
 handleDetail = (id) =>{
  const product = this.getItem(id);
  this.setState(() => {
-   return { detailProduct:product };
+   return {detailProduct:product};
  });  
 };
 
@@ -43,7 +43,8 @@ addToCart =(id) =>{
   };
     render() {
         return (
-            <ProductContext.Provider value={{
+            <ProductContext.Provider 
+            value={{
        ...this.state,
        handleDetail:this.handleDetail,
        addToCart:this.addToCart
